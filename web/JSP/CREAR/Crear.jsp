@@ -36,23 +36,122 @@
             </div>
         </nav>
         <div class="parallax-container">
-            <div class="parallax"><img src="../../IMG/background4.jpg"></div>
+            
             <div class="row">
-                <div class="col s12 m12 l12 xl12">
-                    <div class="section white" >
-                        
-                        <h2>Crea todos los escritos que imagines, cuenta tus historias, obtén un diez en tu ensayo.</h2>
+                <div class="section white col s10 m10 l10 xl10 offset-s1 offset-l1 offset-m1 offset-xl1 z-depth-3" >
+                    <h3>Crea</h3>
+                    <span class="grey-text">Realiza todos los escritos que imagines, cuenta tus historias, obtén un diez en tu ensayo.</span>
+                    <span class="black-text"><p>Para comenzar, elige una plantilla o usa un lienzo en blanco:</p></span>
+                    
+                </div>
+            </div>
+            <div class="row"> 
+                <div class="section col s10 m10 l10 xl10 offset-s1 offset-l1 offset-m1 offset-xl1" >
+                    
+                    <div class="col s5 m4 l3 xl3">
+                        <div class="card z-depth-3">
+                            <div class="card-image">
+                                <img src="../../IMG/lienzo.jpg">
+                                <a class="btn-floating halfway-fab waves-effect waves-light red" href="Lirica.jsp"><i class="material-icons">add</i></a>
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title">Lienzo en blanco</span>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>        
+                </div>
+            </div>
+            <div class="row"> 
+                <div class="section col s10 m10 l10 xl10 offset-s1 offset-l1 offset-m1 offset-xl1" >
+                    <span class="white-text"><h5>Textos Científicos</h5></span>
+                    
+                    <div class="col s5 m4 l3 xl3">
+                        <div class="card z-depth-3">
+                            <div class="card-image">
+                                <img src="../../IMG/plantilla.jpg">
+                                <a class="btn-floating halfway-fab waves-effect waves-light red" href="Lirica.jsp"><i class="material-icons">add</i></a>
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title">Resumen</span>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col s5 m4 l3 xl3">
+                        <div class="card z-depth-3">
+                            <div class="card-image">
+                                <img src="../../IMG/plantilla.jpg">
+                                <a class="btn-floating halfway-fab waves-effect waves-light red" href="Lirica.jsp"><i class="material-icons">add</i></a>
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title">Artículo de investigación</span>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                                       
+                </div>
+            </div>
+            <div class="row"> 
+                <div class="section col s10 m10 l10 xl10 offset-s1 offset-l1 offset-m1 offset-xl1" >
+                    <span class="white-text"><h5>Textos Literarios</h5></span>
+                    <div class="col s5 m4 l3 xl3">
+                        <div class="card z-depth-3">
+                            <div class="card-image">
+                                <img src="../../IMG/plantilla.jpg">
+                                <a class="btn-floating halfway-fab waves-effect waves-light red" href="Lirica.jsp"><i class="material-icons">add</i></a>
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title">Lírica</span>
+                                <p>Escribe un poema en verso y recibe consejos acerca de la métrica y rima.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col s5 m4 l3 xl3">
+                        <div class="card z-depth-3">
+                            <div class="card-image">
+                                <img src="../../IMG/plantilla.jpg">
+                                <a class="btn-floating halfway-fab waves-effect waves-light red" href="Lirica.jsp"><i class="material-icons">add</i></a>
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title">Narrativo</span>
+                                <p>Cuenta tu historia y no dejes que los elementos de la trama se te escapen.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col s5 m4 l3 xl3">
+                        <div class="card z-depth-3">
+                            <div class="card-image">
+                                <img src="../../IMG/plantilla.jpg">
+                                <a class="btn-floating halfway-fab waves-effect waves-light red" href="Lirica.jsp"><i class="material-icons">add</i></a>
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title">Dramático</span>
+                                <p>Elabora el guión, caracteriza tus pesonajes, añade acotaciones y da vida a tu obra teatral.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col s5 m4 l3 xl3">
+                        <div class="card z-depth-3">
+                            <div class="card-image">
+                                <img src="../../IMG/plantilla.jpg">
+                                <a class="btn-floating halfway-fab waves-effect waves-light red" href="Lirica.jsp"><i class="material-icons">add</i></a>
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title">Ensayo</span>
+                                <p></p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
             
+            <div class="parallax"><img src="../../IMG/background4.jpg"></div>
         </div>
-        <div class="container">
-            
-            
-        </div>
-        
-        
+
+
+
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
         <script type="text/javascript" src="../../JS/materialize.min.js"></script>
