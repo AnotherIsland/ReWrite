@@ -13,7 +13,7 @@
         <link type="text/css" rel="stylesheet" href="../../CSS/materialize.css"  media="screen,projection"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>ReWrite - Crear</title>
+        <title>ReWrite - Mis Obras</title>
     </head>
 
     <body>
@@ -23,12 +23,14 @@
                 <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                 <ul class="right hide-on-med-and-down">
                     <li><a class="cyan-text text-accent-4" href="../Inicio.jsp">Cerrar Sesión</a></li>
+                    <li><a class="cyan-text text-accent-4" href="../MISOBRAS/MisObras.jsp">Mis Obras</a></li>
                     <li><a class="cyan-text text-accent-4" href="../CREAR/Crear.jsp">Crear</a></li>
                     <li><a class="cyan-text text-accent-4" href="../AJUSTES/Ajustes.jsp">Ajustes</a></li>
                     <li><a class="cyan-text text-accent-4" href="../EVOLUCION/Evolucion.jsp">Evolución</a></li>
                 </ul>
                 <ul class="sidenav" id="mobile-demo">
                     <li><a class="cyan-text text-accent-4" href="../Inicio.jsp">Cerrar Sesión</a></li>
+                    <li><a class="cyan-text text-accent-4" href="../MISOBRAS/MisObras.jsp">Mis Obras</a></li>
                     <li><a class="cyan-text text-accent-4" href="../CREAR/Crear.jsp">Crear</a></li>
                     <li><a class="cyan-text text-accent-4" href="../AJUSTES/Ajustes.jsp">Ajustes</a></li>
                     <li><a class="cyan-text text-accent-4" href="../EVOLUCION/Evolucion.jsp">Evolución</a></li>
@@ -39,19 +41,12 @@
             <div class="parallax"><img src="../../IMG/background4.jpg"></div>
             <div class="row">
                 <div class="section white col s10 m10 l10 xl10 offset-s1 offset-l1 offset-m1 offset-xl1 z-depth-3" >
-                    <h3>Mis Obras</h3>
-                   
-                    
+                    <h3>Mis Obras</h3>  
                 </div>
-            </div>
-
-            
-            
+            </div>   
         </div>
-
-
-
-
+        
+        
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
         <script type="text/javascript" src="../../JS/materialize.min.js"></script>
         <script type="text/javascript" src="../../JS/init.js"></script>
