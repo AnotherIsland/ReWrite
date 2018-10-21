@@ -37,20 +37,20 @@
         </nav>
         <div class="parallax-container">
             <div class="parallax"><img src="../../IMG/background4.jpg"></div>
-            
-        </div>
-        <div class="container">
-            
             <div class="row">
-                <div class="col s12 m12 l12 xl12">
-                    <div class="section">
-                        <h1></h1>
-                    </div>
+                <div class="section white col s10 m10 l10 xl10 offset-s1 offset-l1 offset-m1 offset-xl1 z-depth-3" >
+                    <h3>Mis Obras</h3>
+                   
+                    
                 </div>
             </div>
+
+            
+            
         </div>
-        
-        
+
+
+
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
         <script type="text/javascript" src="../../JS/materialize.min.js"></script>
